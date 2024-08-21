@@ -1,6 +1,6 @@
 # Don-t-bother
 Программа Don't bother помогает вам очистить RAM
-
+(УЧТИТЕ ЧТО ПРОГРАММА Don-t-bother Т WINDOWS МОГУТ КОНФЛИКТОВАТЬ ПОТОМУ ЧТО **Don-t-bother** ВЫКЛЮЧАЕТ НЕКОТОРЫЕ ФОНОВЫЕ ФУНЦИИ WINDOWS ТАКИЕ КАК Microsoft team И ТД).
 ИНСТРУКЦИЯ:
 
 1. Скачать её потом распаковать Don-t-bother.
@@ -10,7 +10,9 @@
 5. 2 Фунция закрывает браузер и немного не нужных программ.
 6. 3 Фунция закрывает только браузер.
 
-7. MANUAL:
+
+(NOTE THAT THE Don-t-both WINDOWS PROGRAM MAY CONFLICT BECAUSE **Don-t-both** TURNS OFF SOME WINDOWS BACKGROUND FUNCTIONS SUCH AS Microsoft team, ETC).
+MANUAL:
 
 1. Download it and then unpack Don-t-both.
 2. Then run the program (You may need to run the program on behalf of the administration).
